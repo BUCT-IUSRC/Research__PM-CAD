@@ -8,7 +8,7 @@ Overall framework of the proposed intelligent diagnostic model for PM, including
 ![image](https://github.com/BUCT-IUSRC/Research__PM-CAD/assets/58768104/93205d66-ac48-4212-a165-ef966fe6a9ff)
 
 
-### Instal
+### Install
 ### Environment
 ```sh
 numpy
