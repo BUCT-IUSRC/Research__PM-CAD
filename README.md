@@ -1,5 +1,5 @@
 # Computer-Aided Diagnosis of Pituitary Microadenoma on Dynamic Contrast-Enhanced MRI Based on Spatio-Temporal Features
-Te Guo, Jixin Luan, Jingyuan Gao, Bing Liu, Tianyu Shen, Hongwei Yu, Guolin Ma∗, Kunfeng Wang∗
+Te Guo, Jixin Luan, Jingyuan Gao, Bing Liu, Tianyu Shen, Hongwei Yu, Guolin Ma∗, Kunfeng Wang
 
 ### Framework Overview
 Overall framework of the proposed intelligent diagnostic model for PM, including a classification module, pituitary segmentation module, and PM segmentation module. This paper utilize an optimized model based on ZFNet to adequately extract target semantic information while preserving clear spatial details. This paper introduce a DSSM and a RUIM to further capture more precise semantic information, thereby reducing precision loss and enhancing the utilization of low-level information for improved detection of small objects.
@@ -42,7 +42,7 @@ sh pm-dia.py
 ### Pubulication(
 ```sh
 If you find this repository useful, please cite our paper:
-```
+
 @article{guo2025pituitary,
   title={Computer-aided diagnosis of pituitary microadenoma on dynamic contrast-enhanced MRI based on spatio-temporal features},
   author={Guo, T. and Luan, J. and Gao, J. and Liu, B. and Shen, T. and Yu, H. and Wang, K.},
@@ -51,7 +51,7 @@ If you find this repository useful, please cite our paper:
   pages={125414},
   year={2025}
 }
-
+'''
 
 
 ### Contact Us
