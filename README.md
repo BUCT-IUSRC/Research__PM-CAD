@@ -45,7 +45,7 @@ If you find this repository useful, please cite our paper:
 
 @article{guo2025pituitary,
   title={Computer-aided diagnosis of pituitary microadenoma on dynamic contrast-enhanced MRI based on spatio-temporal features},
-  author={Guo, T. and Luan, J. and Gao, J. and Liu, B. and Shen, T. and Yu, H. and Wang, K.},
+  author={Te Guo, Jixin Luan, Jingyuan Gao, Bing Liu, Tianyu Shen, Hongwei Yu, Guolin Ma, Kunfeng Wang},
   journal={Expert Systems with Applications},
   volume={260},
   pages={125414},
